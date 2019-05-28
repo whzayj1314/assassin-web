@@ -1,0 +1,21 @@
+export default {
+  'assassin.user': 'User',
+  'assassin.user.list': 'User list',
+  'assassin.user.account': 'Account',
+  'assassin.user.modal.account.valid': 'Please enter account',
+  'assassin.user.password': 'Password',
+  'assassin.user.modal.password.valid': 'Please enter password',
+  'assassin.user.nickname': 'Nickname',
+  'assassin.user.modal.nickname.valid': 'Please enter nickname',
+  'assassin.user.phone': 'Phone',
+  'assassin.user.modal.phone.valid': 'Please enter phone',
+  'assassin.user.search.phone.valid': 'please enter number',
+  'assassin.user.status': 'Status',
+  'assassin.user.status.locked': 'Locked',
+  'assassin.user.status.unlocked': 'Unlocked',
+  'assassin.user.avatar': 'Avatar',
+  'assassin.user.role': 'Assign roles',
+  'assassin.user.role.add': 'Add',
+  'assassin.user.role.delete': 'Delete',
+};
+

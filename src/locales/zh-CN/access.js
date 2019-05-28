@@ -1,0 +1,15 @@
+export default {
+  'assassin.access': '权限',
+  'assassin.access.menu': '菜单',
+  'assassin.access.button': '按钮',
+  'assassin.access.api': 'Api',
+  'assassin.access.list': '权限列表',
+  'assassin.access.name': '权限名称',
+  'assassin.access.modal.name.valid': '请输入权限名称',
+  'assassin.access.alias': '权限别名',
+  'assassin.access.modal.alias.valid': '请输入权限别名',
+  'assassin.access.uri': '资源路由',
+  'assassin.access.type': '权限类型',
+  'assassin.access.modal.type.valid': '请选择权限类型',
+  'assassin.access.parent': '权限父节点',
+};
